@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="icon_pack" translatable="false">
+        <item>all_apps_button</item>
+        <item>com_android_contacts_dialtacts_activity</item>
+        <item>com_android_browser_browseractivity</item>
+        <item>com_android_calculator2_calculator</item>
+        <item>com_android_calculator2_calculator</item>
+        <item>com_android_contacts_dialtacts_activity</item>
+        <item>com_android_vending_assetbrowseractivity</item>
+        <item>com_android_vending_carrierchannelactivity</item>
+        <item>com_android_vending_categorieswithappslistactivity</item>
+        <item>com_android_vending_mydownloadsactivity</item>
+        <item>com_android_vending_tosactivity</item>
+        <item>com_google_android_apps_plus_phone_homeactivity</item>
+        <item>com_google_android_gm_conversationlistactivitygmail</item>
+        <item>com_google_android_music_com_android_music_activitymanagement_toplevelactivity</item>
+        <item>com_google_android_talk_signinginactivity</item>
+        <item>com_motorola_blur_alarmclock_alarmclock</item>
+        <item>com_motorola_camera_camcorder</item>
+        <item>com_motorola_camera_camera</item>                                                  
+        <item>com_motorola_cmp_homelistactivity</item>
+        <item>com_motorola_gallery</item>
+        <item>com_twitter_android_hometabactivity</item>
+		<item>org_adwfreak_launcher_launcher</item>
+    </string-array>
+</resources>
